@@ -3,7 +3,7 @@ import fire
 
 from rich.console import Console
 
-from devassist.project import project
+from devassist.project import Project
 
 console = Console()
 
